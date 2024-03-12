@@ -9,7 +9,7 @@
 ## install
 
 ```sh
-npm install bitcanna-js
+npm i @atmoner/bitcanna-js
 ```
 ## Table of contents
 
