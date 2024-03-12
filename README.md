@@ -1,7 +1,7 @@
 # bitcanna-js
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/545047/188804067-28e67e5e-0214-4449-ab04-2e0c564a6885.svg" width="80"><br />
+  <img src="https://assets.coingecko.com/coins/images/4716/large/bcna.png" width="80"><br />
     bitcanna lib js
 </p>
 
